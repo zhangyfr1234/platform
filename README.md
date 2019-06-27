@@ -26,11 +26,6 @@
 
 # 微信小程序商城（Java版）
 
-## 获得荣誉
-### GVP
-![](
-https://platform-wxmall.oss-cn-beijing.aliyuncs.com/GVP.jpg "GVP")
-
 ## 官方首页
 * [演示地址](http://fly2you.cn)
 * [最新开发文档](http://fly2you.cn/guide/index)
@@ -198,9 +193,6 @@ platform-wechat-mall
 * yarn run dev
 * 浏览器输入[http://127.0.0.1:8001](http://127.0.0.1:8001)
 
-***
-### 关注微信公众号，第一时间获取项目最新动向，即将推出视频教程
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/qr.jpg "微信公众号")
 
 ## 页面展示
 ### 登录页面
